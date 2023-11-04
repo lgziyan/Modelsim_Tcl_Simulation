@@ -1,0 +1,83 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/lgziyan/Desktop/My_Blogs/1-FPGAstudy/Modelsim_Tcl_Simulation/pll/sim_prj
+T_opt
+!s110 1699101715
+Vz:c@Qm2Eo]]kH[AiUh8Ga2
+04 6 4 work tb_pll fast 0
+=1-a87eeaeaeff7-65463c13-24e-362c
+o-quiet -auto_acc_if_foreign -work base_lib -L base_lib -L altera_lib +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+R0
+vpll
+Z2 !s110 1699102956
+!i10b 1
+!s100 CM>DBeeF]?LGMIAIi`gQF1
+IFm6^;A8bH=0J[mHafR1P03
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1640252100
+8../rtl/pll.v
+F../rtl/pll.v
+Z5 L0 20
+Z6 OL;L;10.5;63
+r1
+!s85 0
+31
+Z7 !s108 1699102956.000000
+!s107 ../rtl/pll.v|
+!s90 -reportprogress|300|-work|base_lib|../rtl/pll.v|
+!i113 0
+Z8 o-work base_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vpll_ip
+R2
+!i10b 1
+!s100 9BS;=nd1_k4AzkJg61[Y;3
+IaL;m4WANQJzQ5WOmZ^DPb2
+R3
+R0
+w1698909052
+8../quartus_prj/ip_core/pll_ip.v
+F../quartus_prj/ip_core/pll_ip.v
+L0 39
+R6
+r1
+!s85 0
+31
+R7
+!s107 ../quartus_prj/ip_core/pll_ip.v|
+!s90 -reportprogress|300|-work|base_lib|../quartus_prj/ip_core/pll_ip.v|
+!i113 0
+R8
+R1
+vtb_pll
+R2
+!i10b 1
+!s100 cFQ6Cd7m?1X?I^iXgj3fi0
+Iniz=2anC8YabX[N9Hn>mf0
+R3
+R0
+R4
+8../sim/tb_pll.v
+F../sim/tb_pll.v
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 ../sim/tb_pll.v|
+!s90 -reportprogress|300|-work|base_lib|../sim/tb_pll.v|
+!i113 0
+R8
+R1

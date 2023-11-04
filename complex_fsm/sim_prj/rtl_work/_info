@@ -1,0 +1,62 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/lgziyan/Desktop/My_Blogs/1-FPGAstudy/Modelsim_Tcl_Simulation/complex_fsm/sim_prj
+T_opt
+!s110 1699099902
+VUIGfC`@R65`9Z]7X_nCe^1
+04 14 4 work tb_complex_fsm fast 0
+=1-a87eeaeaeff7-654634fe-1da-40c8
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+R0
+vcomplex_fsm
+Z2 !s110 1699103018
+!i10b 1
+!s100 F3lbIgeN]l<Lg71BQ5Om63
+Izg>b]l8z3SF=>85gklnLZ0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1640252100
+8../rtl/complex_fsm.v
+F../rtl/complex_fsm.v
+Z5 L0 20
+Z6 OL;L;10.5;63
+r1
+!s85 0
+31
+Z7 !s108 1699103018.000000
+!s107 ../rtl/complex_fsm.v|
+!s90 -reportprogress|300|../rtl/complex_fsm.v|
+!i113 0
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtb_complex_fsm
+R2
+!i10b 1
+!s100 ]6k93RkI:aIhNA7=6>>Xg3
+IVSZABnV_TclWXX?Wc<@`30
+R3
+R0
+R4
+8../sim/tb_complex_fsm.v
+F../sim/tb_complex_fsm.v
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 ../sim/tb_complex_fsm.v|
+!s90 -reportprogress|300|../sim/tb_complex_fsm.v|
+!i113 0
+R8
+R1
